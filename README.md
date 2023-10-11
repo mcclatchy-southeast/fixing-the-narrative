@@ -20,3 +20,9 @@ A how-to session on analyzing data resources and documents to find inequities an
  - **Criminal justice grants** - Governor's Crime Commission data on grants issued to law enforcement and other criminal justice organizations from state and federal grant programs.
  - **Law enforcement officer certification** - N.C. Attorney General data on certification of individual law enforcement officers under Criminal Justice Education and Training Standards (police officers) and Sheriff's Education and Training Standards (sheriff's deputies).
 
+ ## Stories from data
+ * [Seeking Conviction: NC convicts fewer than 1 in 4 sexual assault defendants](https://carolinapublicpress.org/28695/analysis-nc-convicts-fewer-than-1-in-4-sexual-assault-defendants/) // Kate Martin, Carolina Public Press // March 18, 2019
+ * [Dismissed: Prosecutors drop gun charges over and over. Some suspects go on to kill](https://www.charlotteobserver.com/news/local/article227195269.html) // Amex Alexander, Gavin Off & David Raynor, The Charlotte Observer and The News & Observer // Sept. 29, 2019
+ * [Death in the Fast Lane: Extreme speeding increasingly brings death to NC highways](https://www.charlotteobserver.com/news/state/north-carolina/article250722934.html) // Ames Alexander & Richard Stradling, The Charlotte Observer and The News & Observer // June 3, 2021
+ * [Police more likely to stop, search a Black driver in Burlington area](https://www.usatoday.com/story/news/2020/10/21/police-more-likely-stop-search-black-people-driving-burlington/5956475002/) // Ahmed Jallow, The Times-News // Oct. 21, 2020
+
