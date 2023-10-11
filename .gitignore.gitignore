@@ -1,0 +1,4 @@
+#Ignore these directories (end with /)
+
+#ignore these files
+.DS_Store
