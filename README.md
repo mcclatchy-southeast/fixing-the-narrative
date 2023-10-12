@@ -4,6 +4,8 @@ A how-to session on analyzing data resources and documents to find inequities an
 **Fixing the Narrative: A Reformed Approach to Criminal Justice Reporting**
 *Elon University, Oct. 12*
 
+[Get the presentation.](https://docs.google.com/presentation/d/1KX93db8BcarKwgGeClaac6EqvuRpOreOlUujFxdgB0s/edit?usp=sharing)
+
 ## Data sources
 
 ### Online
